@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# local machine settings (absolute paths, per-machine permissions)
+.claude/settings.local.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# local data / OS
+*.db
+.DS_Store
+Thumbs.db
