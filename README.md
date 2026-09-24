@@ -8,7 +8,8 @@ lives in its own folder with its own virtual environment and dependencies.
 | Folder | What's in it |
 | --- | --- |
 | `lecture 7/` | **Yale SOM Course Explorer** — full-stack app: React + Vite + TypeScript front end, FastAPI + PydanticAI back end, over a JSON pack of 234 fall courses. |
-| `lecture 8/` – `lecture 13/` | Later lectures. |
+| `lecture 8/` | **Course Explorer v2** — the lecture 7 app on SQLite, with sign-in (bcrypt), saved chats, and a Render deploy. See [`lecture 8/README.md`](lecture%208/README.md). |
+| `lecture 9/` – `lecture 13/` | Later lectures. |
 | `homework 4/` – `homework 10/` | Assignments. |
 
 Empty folders are placeholders for work not yet started, and won't appear

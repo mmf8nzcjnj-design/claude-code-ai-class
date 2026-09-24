@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+dist/
+.DS_Store
+
+# Runtime copy of the database (holds real accounts and chats). Only the
+# seed, data/yale_som.db, is committed; the root .gitignore ignores *.db.
+data/*.db
+!data/yale_som.db
+
+# The audit trail logs students' chat messages, so it stays local.
+output/
