@@ -3,3 +3,8 @@ Lecture 8 (stats) — 2026-09-23
 Why did the statistician refuse to leave the house?
 The forecast said 30% chance of rain, and she wasn't about to be the
 one wet observation that ruined everyone's confidence interval.
+
+Lecture 8 (stats) — 2026-09-24
+
+A statistician's mean is fine until one outlier shows up.
+Then it's the median who has to tell everyone "I'm not moved."
