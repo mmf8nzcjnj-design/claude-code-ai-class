@@ -1,0 +1,4 @@
+Lecture 10 — 2026-10-01
+
+Why did the AI agent sit in the front row for lecture 10?
+It heard there'd be a lot of context, and it didn't want to get truncated.
